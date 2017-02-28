@@ -22,7 +22,7 @@ public class TotalObserver implements Observer {
     }
 
     public void display(float start,float end){
-        System.out.println("total的数据为"+end);
+        System.out.println("total的数据为1"+end);
         System.out.println("total的数据从"+ start + "变为"+end);
     }
 }
